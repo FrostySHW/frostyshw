@@ -5,6 +5,7 @@
  - HTML
  - CSS3
  - C#
+ 
  🌱 Estou aprendendo a fazer...
  - Android Studio
  - Web Design
