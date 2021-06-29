@@ -1,5 +1,15 @@
-### Hi there 👋
+### Olá! 👋
 
+ 🔭 Atualmente estou trabalhando em...
+ - JavaScript
+ - HTML
+ - CSS3
+ - C#
+ 🌱 Estou aprendendo a fazer...
+ - Android Studio
+ - Web Design
+
+ 
 <!--
 **FrostySHW/frostyshw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
