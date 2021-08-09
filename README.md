@@ -8,7 +8,6 @@
  
  🌱 Estou aprendendo a fazer...
  - Android Studio
- - Web Design
 
  
 <!--
